@@ -11,4 +11,23 @@ button{
 .wrapper{
     background-color: black;
     border-radius: 1em;
+    padding: 1em;
+}
+
+.orange{
+    background-color: #FF9500;
+    color: white;
+}
+
+.grey{
+    background-color: #585858;
+    color: white;
+}
+
+.result{
+    color: white;
+    display: flex;
+    justify-content: right;
+    margin-right: 1em;
+    font-size: 3.5em;
 }
